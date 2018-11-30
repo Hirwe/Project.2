@@ -1,0 +1,20 @@
+.fig{
+    display: flex;
+    background-color: rgb(229, 247, 246);
+    margin: 0%;
+}
+
+img{
+    position: sticky;
+    top: 20%;
+    padding: 10 30 10 30px;
+}
+.cap{
+    padding: 50px;
+}
+.container{
+    margin: 0%;
+}
+.icon-wrapper{
+    background-color: rgb(105, 189, 204);
+}
